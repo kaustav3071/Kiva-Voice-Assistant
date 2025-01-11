@@ -1,0 +1,6 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+requests==2.28.2
+openai==0.27.2
+python-dotenv==0.21.1
+webbrowser==0.0.0
